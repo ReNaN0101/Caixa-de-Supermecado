@@ -1,0 +1,10 @@
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\bin\Debug\Caixa de Supermecado.exe.config
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\bin\Debug\Caixa de Supermecado.exe
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\bin\Debug\Caixa de Supermecado.pdb
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa de Supermecado.csproj.AssemblyReference.cache
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa_de_Supermecado.Form1.resources
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa_de_Supermecado.Properties.Resources.resources
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa de Supermecado.csproj.GenerateResource.cache
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa de Supermecado.csproj.CoreCompileInputs.cache
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa de Supermecado.exe
+C:\Users\20212012000065\source\repos\Caixa de Supermecado\Caixa de Supermecado\obj\Debug\Caixa de Supermecado.pdb
